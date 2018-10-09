@@ -1,6 +1,6 @@
 ---
-title: 'Template Chapter 1'
-description: 'This is a template chapter.'
+title: 'Rappel sur le langage R'
+description: 'Ce chapitre vise à vous procurer des rappels sur le language R déjà étudié en semestre 2.'
 ---
 
 ## An exercise title written in sentence case
